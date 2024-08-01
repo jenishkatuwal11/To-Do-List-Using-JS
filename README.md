@@ -14,8 +14,3 @@ This is a simple, responsive, and professional-looking to-do list application bu
 ### Prerequisites
 
 You need a web browser to run this application.
-
-/to-do-list-app
-├── index.html
-├── style.css
-└── script.js
